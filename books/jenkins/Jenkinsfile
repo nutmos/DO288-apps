@@ -12,8 +12,8 @@ pipeline {
 
     environment {
         //TODO: Edit these vars as per your env
-        DEV_PROJECT = "nutmos-books-dev"
-        STAGE_PROJECT = "nutmos-books-stage"
+        DEV_PROJECT = "nattapong-e--books-dev"
+        STAGE_PROJECT = "nattapong-e--books-stage"
         APP_GIT_URL = "https://github.com/nutmos/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-na2.prod.nextcle.com/repository/nodejs/"
 
